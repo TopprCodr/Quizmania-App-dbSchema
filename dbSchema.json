@@ -1,0 +1,27 @@
+{
+    "users": [
+        {
+            "userId": "y7tgyvgi7f7dtyufioiygifytuhio8",
+            "name": "John Wick",
+            "ageGroup": "10-15",
+            "desc": "I love coding and playing chess",
+            "email": "John.wick@gmail.com",
+            "profilePicUri": {
+                "uri":  "http://gogoe.omc/random.jpg"
+            },
+            "quizResponses": [
+                {
+                    "quizId": "3242randomname",
+                    "responses": [
+                        {
+                            "questionId": "jihugyftughiugyu",
+                            "question": "Who was Iron man?",
+                            "answeredOptionId": "7t6rfuyghkg765tfuyig",
+                            "answeredOption": "Tony William",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
